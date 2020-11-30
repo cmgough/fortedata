@@ -46,7 +46,7 @@ fd_hemi_camera()
 fd_canopy_structure()
 ```
 
-## Light Interception and Availbility
+## Light Interception and Availability
 
   Light data--as *fpar*, the fraction of photosynthetically availble radiation absorbed by the canopy--was acquired using a Decagon LP-80 handheld ceptometer (Decagon Devices; Pullman, Washington). *fpar* is the ratio of PAR above the canopy, to that measured below. *fpar* is assumed to be the difference between the two values. Below-canopy PAR measurements for each plot were taken along north-south and east-west transects (simlar to PCL data above), with measurements taken every 1 to 3 m for a total of 30 - 60 measurements then averaged to make a subplot level mean of below-canopy PAR. Above-canopy PAR measuremnets were taken in open areas to ensure no interference from the canopy. 
   
